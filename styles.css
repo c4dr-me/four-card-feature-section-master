@@ -111,7 +111,7 @@ footer a {
     padding: 1rem 3rem;
   }
   .supervisor {
-    grid-row: 1/7;
+    grid-row: 2/4;
     grid-column: 1/2;
   }
   .team {
@@ -120,6 +120,7 @@ footer a {
   }
   .karma {
     grid-column: 2/3;
+    grid-row: 3/-1;
   }
   .calculator {
     grid-column: 3/3;
